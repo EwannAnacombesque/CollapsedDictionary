@@ -1,10 +1,10 @@
-import api
+import gui
 import sys 
 
 #= Visual Interface =#
 
-api_instance = api.API()
-api_instance.run()
+gui_instance = gui.GUI()
+gui_instance.run()
 
 #==== OR ====#
 
