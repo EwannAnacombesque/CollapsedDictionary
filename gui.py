@@ -54,9 +54,9 @@ def to_rect(x,y,w,h,inted=True):
         return [int_vec([x+w/2,y+h/2]),int_vec([x+w/2,y-h/2]),int_vec([x-w/2,y-h/2]),int_vec([x-w/2,y+h/2])]
     return [[x+w/2,y+h/2],[x+w/2,y-h/2],[x-w/2,y-h/2],[x-w/2,y+h/2]]
 
-#=- API and Slide -=#
+#=- GUI and Slide -=#
 
-class API():
+class GUI():
     def __init__(self):
         #=- Pygame set up -=#
         #===================#
