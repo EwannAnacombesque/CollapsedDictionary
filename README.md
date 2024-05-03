@@ -6,6 +6,8 @@ Watch an illustration on my youtube channel [here : https://www.youtube.com/watc
 ## Graphical User Interface
 The GUI has been done with pygame, it is fully generated live. No images are used, it's all dependant of the screen size.
 
+![](https://github.com/EwannAnacombesque/CollapsedDictionary/blob/main/illustration.png)
+
 ## Examples
 See some examples in the Example folder, some words are generated from the french corpus.  
 Like are [those ones : Rêveuter, Rêvainer, Rêvanter...](https://github.com/EwannAnacombesque/CollapsedDictionary/blob/main/Examples/R%C3%AAv_____er%20tris.txt)
